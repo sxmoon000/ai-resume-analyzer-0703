@@ -1,0 +1,2 @@
+# 纯 Python 标准库实现
+# 如需解析 PDF 简历: pip install PyPDF2
